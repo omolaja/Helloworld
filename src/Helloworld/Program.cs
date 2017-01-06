@@ -9,12 +9,12 @@ namespace Helloworld
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!!!!. Please enter name");
+            Console.WriteLine("Salut la vie");
 
             String guestName = Console.ReadLine();
 
 
-             Console.WriteLine("Welcome "+guestName);
+             Console.WriteLine("Bienvenue "+guestName);
             Console.ReadLine();
         }
     }
